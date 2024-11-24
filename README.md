@@ -1,1 +1,1 @@
-# alzheimersclassification using transfer learning
+# alzheimers classification using transfer learning
